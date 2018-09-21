@@ -20,4 +20,4 @@
       threescale_cicd_openapi_file: '{{ playbook_dir }}/api/{{ openapi_file|default(''openapi-spec.yaml'') }}'
 
   roles:
-  - nmasse-itix.threescale-cicd
+  - myeung18.threescale-cicd
